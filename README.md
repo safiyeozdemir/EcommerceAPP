@@ -7,10 +7,3 @@ There is no database connection in the project; alternatively, the json file met
 
 ##### The project has not been completed yet, it continues.
 
-<details>
-  <summary>Ecommerce Basket App</summary>
-
-- HomePage
-
-
-</details>
